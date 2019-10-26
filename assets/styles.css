@@ -1,0 +1,20 @@
+.calculator {
+    box-shadow: 0 .5rem 1rem 0 rgba(44,51,73,.1);
+    padding-bottom: 15px;
+  }
+  .calculator-display-container {
+    background-color: #444;
+    text-align: right;
+    min-height: 48px;
+  }
+  .calculator-display,
+  .calculator-display-container i {
+    font-size: 2em;
+    color: mintcream;
+  }
+  .calculator-display-container i {
+    margin-top: 8px;
+  }
+  .hidden {
+    display: none;
+  }
